@@ -1,4 +1,4 @@
-public class Linear{
+public class LinearSearch{
     public static int linearSearch(String menu[] , String key){
         for(int i = 0 ; i < menu.length ; i++){
             if(menu[i].equals(key)){
