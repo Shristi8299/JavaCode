@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class MaxSubArrSum{
     public static void maxSubArrSum(int arr[]){
         int currSum;

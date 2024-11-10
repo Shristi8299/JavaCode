@@ -19,8 +19,6 @@ public class PrefixSum{
         }
     }
         }
-        
-        
     System.out.println("max sum of subarray = " + maxSum );
     }
     public static void main(String args[]){
